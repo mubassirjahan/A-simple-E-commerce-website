@@ -14,3 +14,5 @@ features in the website were, search functionality, product details, subcategori
 products, discounted price, easy order placing, user authentication etc. There were
 mixed findings on the project. The website could be used by small business enthusiasts
 to sell their products. There were also chances to develop the project.
+
+![Methodology](img/Methodology.jpg)
