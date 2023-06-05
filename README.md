@@ -15,4 +15,10 @@ products, discounted price, easy order placing, user authentication etc. There w
 mixed findings on the project. The website could be used by small business enthusiasts
 to sell their products. There were also chances to develop the project.
 
+<!--
+Methodology:
+
 ![Methodology](img/Methodology.jpg)
+-->
+ER-diagram:
+![ER-diagram](img/ER-diagram.jpg)
