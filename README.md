@@ -22,3 +22,8 @@ Methodology:
 -->
 ER-diagram:
 ![ER-diagram](img/ER-diagram.jpg)
+
+
+Full details can be found inside the Project Report Folder
+
+For Any queries Feel Free to Email me : mubassir.jahan01@gmail.com
