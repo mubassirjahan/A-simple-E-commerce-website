@@ -36,8 +36,18 @@ Methodology:
 
 
 ## Screenshots
-1. Swapable Login Screen for two types of users. (Built with JavaScript)
+1. Homepage of the Website
 ![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/Homepage.png)
+
+2. Sign in/Sign up Page:
+![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/sign-in-page.png)
+
+3. Search Functionality: If any product was searched [Figure 2] inside the search bar
+then the results were displayed (including the normal price and the discounted price) as
+below
+![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/search.png)
+
+
 <!--
 ER-diagram: 
 ![ER-diagram](img/ER-diagram.jpg)
