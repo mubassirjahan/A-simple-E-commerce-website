@@ -47,6 +47,38 @@ then the results were displayed (including the normal price and the discounted p
 below
 ![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/search.png)
 
+4.Product Details: By clicking on the Title of the product the page redirected to the
+product details page where specifications and other information showed up there.
+[Figure 3]
+![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/product-details.png)
+
+5.Placing order: By clicking add to cart it showed up a pop up confirmation [Figure 4]
+![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/place-order.png)
+
+6.Add to cart: Now the cart details page appeared [Figure 5]
+![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/product-details.png)
+
+7.Final Checkout: After Authentication it asked to fill up the shipping & billing address for final checkout [in
+Figure 7]. By clicking Procced to checkout a pop-up window appeared and showed
+order is placed.
+![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/fig7.png)
+
+8.Admin Panel: When Admin logged into the system the dashboard page was appeared
+as below [Figure 8]
+![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/fig8.png)
+
+9.Update Order Status: By clicking the action the admin was able to change the product
+delivery status. [Figure 9] & [Figure 10]
+![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/fig9.png)
+![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/fig10.png)
+
+10.Order Tracking from User End: When a user was logged into the system and clicked
+Track Order then it asked the user to enter order ID and email. Upon entering info a
+pop-up window appeared with updated order status[Figure 11] & [Figure 12]
+![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/fig11.png)
+![alt-text](https://github.com/mubassirjahan/A-simple-E-commerce-website/blob/main/img/fig12.png)
+
+
 
 <!--
 ER-diagram: 
