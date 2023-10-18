@@ -23,14 +23,14 @@ Methodology:
 ## List of Existing Features
 1.	Multi-user login, Logout, and Registration.
 2.	User Profile Dashboard: Create and Update.
-3.	Announcement: Create (Only Trainmaster) and view (everyone) announcements.
+3.	Announcement: Create and view announcements.
 4.	Admin Pannel (Update, Order System, Monitor, Change User permission.
-5.	Online Payment: Confirm payment to get the ticket.
+5.	Online Payment: Confirm payment to get the order.
 6.	Cancel order: Cancel and get refunded for the product purchased.
 7.	Order History: View (Both General User and Admin Panel) logs of product purchase history or download them.
 8.	Digital Order Tracking: Each order  comes with an order tracking facility
 9.	Contact Us: Generates an email from the user’s feedback and sends it to an Admin.
-10.	FAQ: Shows the question and answers to the most Frequently Asked Questions. Sends email through the form.
+10.	FAQ: Shows the question and answers to the most Frequently Asked Questions. Sends queries through the form.
 11.	Product Update: Let the admin add new products and update the existing one
 12.	Ratings and reviews: Users can give ratings from 1 to 5 stars. As well as include reviews about their purchased products
 
