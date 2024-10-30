@@ -1,4 +1,4 @@
-# A-simple-E-commerce-website
+# Premium Store
 CSE 299 - Junior Design Project  
 
 Abstract:
