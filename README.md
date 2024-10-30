@@ -84,7 +84,7 @@ pop-up window appeared with updated order status[Figure 11] & [Figure 12]
 ER-diagram: 
 ![ER-diagram](img/ER-diagram.jpg)
 -->
-
+<!--
 Full details can be found inside the Project Report Folder
-
-For Any queries or to get access the full source code Feel Free to Email me : mubassir.jahan01@gmail.com
+-->
+For Any queries Feel Free to Email me : mubassir.jahan01@gmail.com
